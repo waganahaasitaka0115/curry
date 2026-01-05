@@ -1,0 +1,16 @@
+.space-prim{
+    padding: 160px 0;
+}
+.space-seco{
+    padding: 240px 0;
+}
+.space-pad{
+    padding: 120px;
+}
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
